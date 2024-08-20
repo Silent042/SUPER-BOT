@@ -7,19 +7,19 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "254111728536"
+global.botnumber = "2348168855791"
 global.confirmcode = ""
 
 global.owner = [
-  ['254794597254', '👑 𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐎𝐑👑', true],
-  ['254101003655', '🐉Confronter', true],
-  ['254111728536', 'Dragon Killer', true],
-  ['254796283064', '❗️Confronter', true],
-  ['254743776612', '💫 𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓💫', true],
+  ['2348168855791', '👑 𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐎𝐑👑', true],
+  ['2348168855791', '🐉 SILENT', true],
+  ['2348168855791', 'Demon Killer', true],
+  ['2348168855791', '❗️ Silent', true],
+  ['2348168855791', '💫 Voltage 𝐁𝐎𝐓💫', true],
 ];
 
-global.suittag = ['254794597254'];
-global.prems = ['254794597254'];
+global.suittag = ['2348168855791'];
+global.prems = ['2348168855791'];
 
 global.packname = '𒁂⃝ᰲĴΔ¥Đ€Ň ƤΔƤƗƗ™ ͟͞';
 global.author = '★𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓★';
